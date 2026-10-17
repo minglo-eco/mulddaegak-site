@@ -7,9 +7,9 @@
 ## 이 저장소에는 CHECKPOINT.md 를 두지 않는다
 
 물때각은 프로젝트 하나다. 목표·할일은 전부 앱 저장소
-(`C:\mulddaegak\app`, minglo-eco/mulddaegak-app) 의 `CHECKPOINT.md`
-`## 4. 출시 후` 아래에 적는다. 여기에 CHECKPOINT.md 를 만들면
-대시보드에 물때각이 두 개로 뜬다.
+(맥미니 `~/projects/mulddaegak-app`, minglo-eco/mulddaegak-app) 의 `CHECKPOINT.md` 에 적는다.
+여기에 CHECKPOINT.md 를 따로 만들면 같은 프로젝트의 할 일이 두 곳으로 갈린다.
+(물때각은 2026-10-15 접음 — 앱·이 사이트는 그대로 둔다. 옛 기록: 09월엔 PC `C:\mulddaegak\app`·대시보드 기준이었다)
 
 여기서 한 작업이 끝나면 앱 저장소의 CHECKPOINT.md 를 고쳐 커밋·push 한다.
 
